@@ -79,14 +79,14 @@ Open the IDE and click to the "Sketch" menu and then Include Library > [Manage L
 
 
 ### Hardware Installation
-1. **Xbox Connection**
-    <br><br>
-    <img src="./resources/images/connections_xbox.jpg" alt="XBIR_NeoPixel"/>
-    <br><br><br>
-2. **PC Connection**
-    <br><br>
-    <img src="./resources/images/connections_pc.jpg" alt="XBIR_NeoPixel"/>
-    <br><br><br>
+#### Xbox Connection
+<br><br>
+<img src="./resources/images/connections_xbox.jpg" alt="XBIR_NeoPixel"/>
+<br><br><br>
+#### PC Connection
+<br><br>
+<img src="./resources/images/connections_pc.jpg" alt="XBIR_NeoPixel"/>
+<br><br><br>
 ****
 
 
