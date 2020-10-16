@@ -69,7 +69,7 @@ Open the IDE and click to the "Sketch" menu and then Include Library > [Manage L
 2. **Program Pro Micro, open `/XBIR_NeoPixel/XBIR_NeoPixel.ino` with Arduino IDE.**<br>
 3. **Set the Board Type the Arduino Leonardo and the port correctly.**
     <br><br>
-    <img src="./resources/images/ide_board.jpg" alt="XBIR_NeoPixel" width="50%"/><img src="./resources/images/ide_port.jpg" alt="XBIR_NeoPixel" width="50%"/>
+    <img src="https://raw.githubusercontent.com/PatFrost/rtc2xbox/main/resources/images/ide_board.jpg" alt="XBIR_NeoPixel" width="50%"/><img src="https://raw.githubusercontent.com/PatFrost/rtc2xbox/main/resources/images/ide_port.jpg" alt="XBIR_NeoPixel" width="50%"/>
     <br><br><br>
 4. **Compile by clicking the tick in the top left.**<br>
     Check the console output it has compiled successfully
